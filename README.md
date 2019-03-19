@@ -39,4 +39,12 @@ Terms like 'Compostable' and 'Carbon Offsetting' are [regulated](https://www.ecf
 
 [Deatailed Timeline](https://bioplasticsnews.com/2018/07/05/history-of-bioplastics/)
 
-# Concerns
+# Concerns / Design Challenges
+
+<img width="697" alt="Screen Shot 2019-03-18 at 7 14 49 PM" src="https://user-images.githubusercontent.com/47313658/54575649-24af8600-49b2-11e9-889b-5322dd5d0b63.png">
+[Concerns](https://www.theguardian.com/environment/2016/may/23/biodegradable-plastic-false-solution-for-ocean-waste-problem)
+also exsist with the need for comertial facilites and long periods to breakdown most bio plastics.
+
+![PLAST](https://user-images.githubusercontent.com/47313658/54575153-3b54dd80-49b0-11e9-880e-6b8aff9b68b5.png)
+
+[Greenwashing](https://www.treehugger.com/clean-technology/problem-bioplastics.html)Is a concern as lack of clear labling laws could lead more consumers into thinking that all plastic is compostable or likewise create other confusion. 

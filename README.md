@@ -1,7 +1,8 @@
 # Compostable-Research
 Research for Precious Plastics class Spring19
 
-# Definition
+# Definitions
+# Bio Plastics:
 A Bio-based polymer derived from the biomass or issued from monomers derived
 from the biomass and which, at some stage in its processing into finished
 products, can be shaped by flow. According to [International Union of Pure and Applied Chemistry](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry)
@@ -12,6 +13,10 @@ fossil resources.
 
 Note 2: Bioplastic is misleading because it suggests that any polymer derived
 from the biomass is environmentally friendly.
+
+# Biodegradable
+capable of being broken down especially into innocuous products by the action of living things (such as microorganisms)
+
 
 [Wiki](https://en.wikipedia.org/wiki/Biodegradable_polymer)
 ### In the US the FTC sets the law 
@@ -48,3 +53,23 @@ also exist with the need for commercial facilities and long periods to breakdown
 ![PLAST](https://user-images.githubusercontent.com/47313658/54575153-3b54dd80-49b0-11e9-880e-6b8aff9b68b5.png)
 
 [Greenwashing](https://www.treehugger.com/clean-technology/problem-bioplastics.html)Is a concern as lack of clear labeling laws could lead more consumers into thinking that all plastic is compostable or likewise create other confusion. 
+
+# Proposal:
+Make a  project that aims to illustrate how one could, through sourcing and purchasing some materials, use an altered off the shelf 3d printer to make products that decompose naturally in non commercial  composting facilities. My initial aim was to repackage this into some sort of a kit
+a regular consumer can purchase and alter their own printers but due to the nature of some of the alteration and the fact that large amounts of source material must be gathered for effective production I’ve pivoted slightly. I now envision this machine to live shared amongst a small community.
+Much like the precious plastic project, a few individuals can take it upon themselves to build such a machine, but it would take the entire village to source and store material and to discuss what ought to be made and what methods are working and whats not. In this sense the project can also achieve its goals of spuring
+newfound understanding and care for natural systems and contemplation as to how we can live in harmony with them.
+
+# Timeline for my project
+
+* March 25  - Finilize list of materials to test from both the book and the Web.
+* Begin gathering all materials purchased and found.
+* April 1 - Make manual sample extrusions to test material binding and drying characteristics 
+* Final deadline to order all the parts of the printer
+* April 8 - Continued material testing
+* Printer Assembly
+* April 15 - Print tests
+* April 22 (Earth Day) - Iterations of look and feel based on tests
+* Final Grid - Finish multiple prints and reorganize research and build journey
+
+# Resources and Past projects for inspitation

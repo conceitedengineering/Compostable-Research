@@ -53,6 +53,7 @@ also exist with the need for commercial facilities and long periods to breakdown
 ![PLAST](https://user-images.githubusercontent.com/47313658/54575153-3b54dd80-49b0-11e9-880e-6b8aff9b68b5.png)
 
 [Greenwashing](https://www.treehugger.com/clean-technology/problem-bioplastics.html)Is a concern as lack of clear labeling laws could lead more consumers into thinking that all plastic is compostable or likewise create other confusion. 
+# Summaty and sythesis
 
 # Proposal:
 Make a  project that aims to illustrate how one could, through sourcing and purchasing some materials, use an altered off the shelf 3d printer to make products that decompose naturally in non commercial  composting facilities. My initial aim was to repackage this into some sort of a kit
@@ -62,14 +63,12 @@ newfound understanding and care for natural systems and contemplation as to how 
 
 # Timeline for my project
 
-* March 25  - Finilize list of materials to test from both the book and the Web.
-* Begin gathering all materials purchased and found.
-* April 1 - Make manual sample extrusions to test material binding and drying characteristics 
-* Final deadline to order all the parts of the printer
-* April 8 - Continued material testing
-* Printer Assembly
-* April 15 - Print tests
-* April 22 (Earth Day) - Iterations of look and feel based on tests
-* Final Grid - Finish multiple prints and reorganize research and build journey
+* March 25  - Order and assemble printer
+* April 1 - 9 Samples Based on [materium](https://materiom.org/recipe/39)
+  Printer is assembled.
+* April 8 - Extruder Mod finished and extuding something
+* April 15 - 18 prints tested with dimention
+* April 22 - One functional object and a refiend prints 
+* April 29 - Documentation of the information so far and a few complete fuctional object. Github documentation flushed out.
 
 # Resources and Past projects for inspitation
